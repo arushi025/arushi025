@@ -1,5 +1,22 @@
 # 💫 About Me:
-💻 I’m currently working on<br>Frontend Development & improving my web design skills<br><br>🤝 I’m looking to collaborate on<br>Beginner-friendly web development projects & hackathons<br><br>🧠 I’m looking for help with<br>Advanced JavaScript, MERN Stack & Full-Stack Development<br><br>🌱 I’m currently learning<br>HTML, CSS, JavaScript, MERN Stack & Manual Testing<br><br>💬 Ask me about<br>Frontend Development, Creativity, Makeup Art & Hackathons<br><br>⚡ Fun fact<br>I’m both a tech enthusiast and a professional makeup artist — <br>I love combining creativity with technology!
+💻 I’m currently working on<br>
+Frontend Development & improving my web design skills<br>
+
+🤝 I’m looking to collaborate on<br>
+Beginner-friendly web development projects & hackathons<br>
+
+🧠 I’m looking for help with<br>
+Advanced JavaScript, MERN Stack & Full-Stack Development<br>
+
+🌱 I’m currently learning<br>
+HTML, CSS, JavaScript, MERN Stack & Manual Testing<br>
+
+💬 Ask me about<br>
+Frontend Development, Creativity, Makeup Art & Hackathons<br>
+
+⚡ Fun fact<br>
+I’m both a tech enthusiast and a professional makeup artist — <br>
+I love combining creativity with technology!
 
 
 ## 🌐 Socials:
